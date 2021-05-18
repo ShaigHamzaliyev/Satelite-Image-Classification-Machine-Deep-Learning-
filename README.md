@@ -1,4 +1,4 @@
-# Sateelite-Imgae-Classification-ML-DL-
+# Satelite-Imgae-Classification-ML-DL-
 
 This is a Final Project of course called Advanced Data analysis and Programming.
 
