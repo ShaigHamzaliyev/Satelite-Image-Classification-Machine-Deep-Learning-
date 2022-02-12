@@ -1,4 +1,4 @@
-# Satelite-Image-Classification (ML/DL)
+# Satelite-Image-Classification (Macine/Deep Learning)
 
 This is a Final Project of course called Advanced Data analysis and Programming.
 
